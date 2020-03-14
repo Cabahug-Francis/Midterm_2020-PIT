@@ -1,0 +1,69 @@
+body, html {
+    height: 100%;
+  }
+  .navbar-brand{
+      margin-left:50px;
+  }
+
+
+#jumbo-1{
+    background-image:url("trialBG.jpg");
+    background-position-y: -180px;
+
+}  
+#icons-1{
+    margin-top:100px;
+    width:100%;
+    margin-left:auto;
+    margin-right:auto;
+    
+}
+#img-2{
+    height:200px;
+}
+#jumbo-2{
+    
+    margin-top:-30px;
+    height:650px;
+    text-align:center;
+    background-image:url("jumbo-2bg.png ");
+    background-position-y: -1000px;
+    
+}
+
+#jumbo-2info{
+   
+    font-size:30px;
+    padding-top:50px;
+    font-family: Open-Sans,sans-serif;
+   
+    
+}
+
+.display-4, .lead, .display{
+    
+    color:white;
+
+}
+.lamlam{
+    color: #0ea5d9;
+}
+.nav li a{
+    color: white;
+}
+
+.nav li a:hover{
+    border: 1px solid white;
+}
+
+.footer-1{
+    
+    width:100%;
+    background-color:#343a40;
+    padding: 30px 0px;
+    
+}
+#words{
+    color:white;
+    text-align:center;
+}

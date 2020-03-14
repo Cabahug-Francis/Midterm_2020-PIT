@@ -1,0 +1,65 @@
+body{
+    background-image:url("black.gif");
+    
+}
+.picport{
+    height: 300px;
+    width: 300px;
+    margin-left:auto;
+    margin-right:auto;
+    display:block;
+    padding-top:20px;
+    border-radius:20%;  
+}
+
+.nav li a{
+    color: white;
+}
+
+.nav li a:hover{
+    border: 1px solid white;
+}
+#skills, #data, #educ, .r{
+    font-family:"Saira Extra Condensed";
+    color:white;
+    text-align:center;
+    padding-top:20px;
+
+}
+#obj_info, .row, #grad, .e, .r1{
+    font-size:20px;
+    text-align:center;
+    color:grey;
+}
+#grad{
+    margin-top:10px;
+}
+.row{
+    
+    font-size:3 0px;
+}
+#row3{
+    margin-bottom:20px;
+}
+h1.k{
+    border-top: 1px solid grey;
+}
+h1.q{
+    border-top: 1px solid grey;
+}
+h1.w{
+    border-top: 1px solid grey;
+}
+h1.r{
+    border-top: 1px solid grey;
+}
+.footer-1{
+    
+    width:100%;
+    background-color:#343a40;
+    padding: 30px 0px;
+    text-align:center;
+    margin-top:200px;
+    color:white;
+    
+}

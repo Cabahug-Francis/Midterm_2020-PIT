@@ -1,0 +1,58 @@
+.nav li a{
+    color: white;
+}
+
+.nav li a:hover{
+    border: 1px solid white;
+}
+body{
+    background-image:url("black.gif");
+    
+}
+
+.gallerypic1{
+    height: 300px;
+    width: 300px;
+    border-style:groove;
+    margin-left: 50px;
+    margin-top: 60px;
+}
+#infopic1{
+    color:white;
+    position:relative;
+    left:400px;
+    bottom:160px;
+    margin-right:480px;
+}
+.gallerypic2{
+    
+    border-style:groove;
+    margin-left: 800px;
+    margin-top: 100px;
+}
+#infopic2{
+    color:white;
+    position:relative;
+    left:100px;
+    bottom:120px;
+    margin-right:480px;
+}
+.gallerypic6{
+    border-style:groove;
+    margin-left:185px;
+    margin-top:100px;   
+}
+#infopic6{
+    color:white;
+    position:relative;
+    left:300px;
+    bottom:-80px;
+    margin-right:480px;
+}
+.footer-1{
+    color:#343a40;
+    width:100%;
+    background-color:#343a40;
+    padding: 30px 0px;
+    
+}

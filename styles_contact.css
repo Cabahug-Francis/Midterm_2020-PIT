@@ -1,0 +1,52 @@
+html{
+    scroll-behavior:smooth;
+}
+body{
+    background-image:url("black.gif");
+   
+}
+#contacth1::before{
+display: block;
+content: " ";
+margin-top: -65px;
+height: 65px;
+visibility: hidden;
+
+}
+.jumbotron{
+    background-image:url("jumbo-2bg.png");
+    text-align:center;
+    
+}
+.nav li a{
+    color: white;
+}
+
+.nav li a:hover{
+    border: 1px solid white;
+}
+#contacth1{
+    margin-top:400px;
+    color:white;
+    text-align:center;
+    margin-bottom:150px;
+}
+.row{
+    margin-top:100px;
+    color:white;
+    
+  
+   
+}
+.footer-1{
+    
+    width:100%;
+    background-color:#343a40;
+    padding: 30px 0px;
+    text-align:center;
+    margin-top:200px;
+    color:white;
+    
+}
+
+
